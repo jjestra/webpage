@@ -21,7 +21,7 @@ subtitle:
 feature:
 - description: ""
   icon: chart-line
-  icon_pack: fab
+  icon_pack: fas
   name: Economics and Statistics
 - description: ""
   icon: python
@@ -37,9 +37,9 @@ feature:
   name: R
 - description: ""
   icon: overleaf
-  icon_pack: fab
+  icon_pack: ai
   name: Overleaf
-- description: 100%
+- description: ""
   icon: github
   icon_pack: fab
   name: Github
