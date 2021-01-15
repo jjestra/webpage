@@ -65,4 +65,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a fourth year Ph.D. candidate in economics at [Emory University](https://www.emory.edu/home/index.html). I received my B.S. and M.S. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. I spent one year working at a junior researcher for [Universidad EAFIT](https://www.eafit.edu.co/) and International Development Research Centre (IDRC) before begining my Ph.D. degree. My primary research interests are econometrics of networks and Applied Microeconomics.
+I am a fourth year Ph.D. candidate in economics at [Emory University](https://www.emory.edu/home/index.html). I received my B.S. and M.S. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. I spent one year working at a junior researcher for [Universidad EAFIT](https://www.eafit.edu.co/) and International Development Research Centre (IDRC) before beginning my Ph.D. degree. My primary research interests are econometrics of networks and Applied Microeconomics.
