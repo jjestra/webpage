@@ -28,7 +28,7 @@ feature:
   icon_pack: fab
   name: Python
 - description: ""
-  icon: fa-database
+  icon: database
   icon_pack: fas
   name: SQL
 - description: ""
