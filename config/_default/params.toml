@@ -100,7 +100,7 @@ address = {street = "Rich Memorial Building", city = "Atlanta", region = "GA", p
 #coordinates = {latitude = "33.789705", longitude = "-84.323138"}
 
 # Directions for visitors to locate you.
-directions = "E"
+directions = ""
 
 # Office hours
 # A list of your office hours. To remove, set to an empty list `[]`.
