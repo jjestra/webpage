@@ -44,12 +44,15 @@ education:
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
 social:
-- icon: github
-  icon_pack: fab
-  link: https://github.com/jjestra/
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/juan-estrada-610411191/
+- icon: google-scholar
+  icon_pack: ai
+  link: https://scholar.google.com/citations?user=hfvXWN8AAAAJ&hl=en&citsig=AMD79ooNcEvUYDLPfmmJ6tF_7pOtuMOk6Q
+- icon: github
+  icon_pack: fab
+  link: https://github.com/jjestra/
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
