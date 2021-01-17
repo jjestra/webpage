@@ -272,4 +272,4 @@ plugins_js  = []
 
 [icon.pack]
   ai = true
-  fitz = true
+  fizzed = true
