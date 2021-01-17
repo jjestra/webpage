@@ -65,7 +65,7 @@ social:
   link: 
 - icon: orcid
   icon_pack: ai
-  link: 
+  link: https://orcid.org/0000-0003-0070-7586
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/juan-estrada-610411191/
