@@ -56,25 +56,25 @@ social:
   link: https://scholar.google.com/citations?user=hfvXWN8AAAAJ&hl=en
 - icon: microsoft
   icon_pack: fab
-  link: https://academic.microsoft.com/profile/e120h6h7-314e-4f00-f6j2-4ig417f44gg9/DavidTomasJachoChavez
+  link: 
 - icon: mendeley
   icon_pack: ai
-  link: https://www.mendeley.com/profiles/david-jacho-chavez/
+  link: 
 - icon: ideas-repec
   icon_pack: ai
-  link: https://ideas.repec.org/e/pja134.html
+  link: 
 - icon: researchgate
   icon_pack: ai
-  link: https://www.researchgate.net/profile/David_Jacho-Chavez
+  link: 
 - icon: orcid
   icon_pack: ai
-  link: https://orcid.org/0000-0003-3511-422X
+  link: 
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/in/david-jacho-chavez
+  link: https://www.linkedin.com/in/juan-estrada-610411191/
 - icon: github
   icon_pack: fab
-  link: https://github.com/djachoc
+  link: https://github.com/jjestra
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
