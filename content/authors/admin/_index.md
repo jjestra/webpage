@@ -46,16 +46,35 @@ education:
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 #   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
 #   form "mailto:your-email@example.com" or "/#contact" for contact widget.
-social:
-- icon: linkedin
-  icon_pack: fab
-  link: https://www.linkedin.com/in/juan-estrada-610411191/
+
+ssocial:
+- icon: envelope
+  icon_pack: fas
+  link: '#contact'
 - icon: google-scholar
   icon_pack: ai
-  link: https://scholar.google.com/citations?user=hfvXWN8AAAAJ&hl=en&citsig=AMD79ooNcEvUYDLPfmmJ6tF_7pOtuMOk6Q
+  link: https://scholar.google.com/citations?user=hfvXWN8AAAAJ&hl=en
+- icon: microsoft
+  icon_pack: fab
+  link: https://academic.microsoft.com/profile/e120h6h7-314e-4f00-f6j2-4ig417f44gg9/DavidTomasJachoChavez
+- icon: mendeley
+  icon_pack: ai
+  link: https://www.mendeley.com/profiles/david-jacho-chavez/
+- icon: ideas-repec
+  icon_pack: ai
+  link: https://ideas.repec.org/e/pja134.html
+- icon: researchgate
+  icon_pack: ai
+  link: https://www.researchgate.net/profile/David_Jacho-Chavez
+- icon: orcid
+  icon_pack: ai
+  link: https://orcid.org/0000-0003-3511-422X
+- icon: linkedin
+  icon_pack: fab
+  link: https://www.linkedin.com/in/david-jacho-chavez
 - icon: github
   icon_pack: fab
-  link: https://github.com/jjestra/
+  link: https://github.com/djachoc
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
