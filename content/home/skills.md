@@ -36,13 +36,27 @@ feature:
   icon_pack: fab
   name: R
 - description: ""
-  icon: overleaf
-  icon_pack: ai
-  name: Overleaf
+  icon: git-alt
+  icon_pack: fab
+  name: git
+- description: ""
+  icon: icon-postgres
+  icon_pack: fitz
+  name: Postgres
 - description: ""
   icon: github
   icon_pack: fab
   name: Github
+- description: ""
+  icon: overleaf
+  icon_pack: ai
+  name: Overleaf
+- description: ""
+  icon: icon-shell
+  icon_pack: fitz
+  name: Shell
+
+
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
