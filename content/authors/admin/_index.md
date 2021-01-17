@@ -57,12 +57,9 @@ social:
 - icon: microsoft
   icon_pack: fab
   link: 
-- icon: mendeley
-  icon_pack: ai
-  link: 
 - icon: ideas-repec
   icon_pack: ai
-  link: 
+  link: https://ideas.repec.org/f/pes207.html
 - icon: researchgate
   icon_pack: ai
   link: 
