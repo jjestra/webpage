@@ -32,10 +32,13 @@ education:
   - course: Ph.D. in Economics
     institution: Emory University
     year: 2022 (Expected)
-  - course: M.S. in Economics
+  - course: M.Sc. in Economics
+    institution: Emory University
+    year: 2020
+  - course: M.Sc. in Economics -- Highest GPA
     institution: Universidad EAFIT
     year: 2016
-  - course: B.A. in Economics
+  - course: B.Sc. in Economics
     institution: Universidad EAFIT
     year: 2014
 
@@ -68,4 +71,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a fourth year Ph.D. candidate in economics at [Emory University](https://www.emory.edu/home/index.html). I received my B.S. and M.S. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. I spent one year working at a junior researcher for [Universidad EAFIT](https://www.eafit.edu.co/) and International Development Research Centre (IDRC) before beginning my Ph.D. degree. My primary research interests are econometrics of networks and applied microeconomics.
+I am a fourth year Ph.D. candidate in economics at [Emory University](https://www.emory.edu/home/index.html). I received my B.Sc. and M.Sc. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. I spent one year working at a junior researcher for [Universidad EAFIT](https://www.eafit.edu.co/) and International Development Research Centre (IDRC) before beginning my Ph.D. degree. My primary research interests are econometrics of networks and applied microeconomics.
