@@ -62,7 +62,7 @@ social:
   link: https://ideas.repec.org/f/pes207.html
 - icon: researchgate
   icon_pack: ai
-  link: 
+  link: https://www.researchgate.net/profile/Juan_Estrada45 
 - icon: orcid
   icon_pack: ai
   link: https://orcid.org/0000-0003-0070-7586
