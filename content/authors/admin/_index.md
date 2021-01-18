@@ -56,7 +56,7 @@ social:
   link: https://scholar.google.com/citations?user=hfvXWN8AAAAJ&hl=en
 - icon: microsoft
   icon_pack: fab
-  link: 
+  link: https://academic.microsoft.com/profile/596g8eh4-gji8-43ge-f8eh-1e785316884e/JuanEstrada/ 
 - icon: ideas-repec
   icon_pack: ai
   link: https://ideas.repec.org/f/pes207.html
