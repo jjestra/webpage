@@ -41,6 +41,7 @@ feature:
   name: Git
 - description: ""
   icon: postgresql
+  icon_pack: custom
   name: Postgres
 - description: ""
   icon: github
