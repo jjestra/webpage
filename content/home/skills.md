@@ -38,7 +38,7 @@ feature:
 - description: ""
   icon: git-alt
   icon_pack: fab
-  name: git
+  name: Git
 - description: ""
   icon: postgresql
   name: Postgres
