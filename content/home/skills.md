@@ -39,9 +39,7 @@ feature:
   icon: git-alt
   icon_pack: fab
   name: git
-- description: ""
-  icon: postgresql
-  name: Postgres
+
 - description: ""
   icon: github
   icon_pack: fab
@@ -50,12 +48,6 @@ feature:
   icon: overleaf
   icon_pack: ai
   name: Overleaf
-- description: ""
-  icon: icon-shell
-  icon_pack: fitz
-  name: Shell
-
-
   
 # Uncomment to use emoji icons.
 #- icon: ":smile:"
