@@ -39,7 +39,9 @@ feature:
   icon: git-alt
   icon_pack: fab
   name: git
-
+- description: ""
+  icon: postgresql
+  name: Postgres
 - description: ""
   icon: github
   icon_pack: fab
