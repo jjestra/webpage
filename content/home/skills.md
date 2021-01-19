@@ -40,8 +40,7 @@ feature:
   icon_pack: fab
   name: git
 - description: ""
-  icon: icon-postgres
-  icon_pack: fitz
+  icon: postgresql
   name: Postgres
 - description: ""
   icon: github
