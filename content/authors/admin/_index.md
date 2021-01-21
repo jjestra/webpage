@@ -35,7 +35,7 @@ education:
   - course: M.Sc. in Economics
     institution: Emory University
     year: 2020
-  - course: M.Sc. in Economics -- Highest GPA
+  - course: M.Sc. in Economics 
     institution: Universidad EAFIT
     year: 2016
   - course: B.Sc. in Economics
