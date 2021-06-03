@@ -72,6 +72,9 @@ social:
 - icon: github
   icon_pack: fab
   link: https://github.com/jjestra
+- icon: twitter
+  icon_pack: fab
+  link: https://twitter.com/JuanEst53363912 
 
 # Link to a PDF of your resume/CV.
 # To use: copy your resume to `static/media/resume.pdf`, enable `ai` icons in `params.toml`, 
