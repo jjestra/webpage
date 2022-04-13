@@ -3,7 +3,7 @@
 
 title: "netivreg: Estimation of Peer Effects in Endogenous Social Networks"
 authors: [Estrada, P.; Estrada, J.; Huynh, K.P.; Jacho-Chavez, D.T.; Sanchez-Aragon, L]
-date: 2022
+date: 2022-01-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2019-11-14T20:42:26-05:00
