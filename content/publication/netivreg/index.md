@@ -15,7 +15,7 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Advances in Econometrics**, (42), pp. 235-262, edited by Áureo de Paula, Elie Tamer, and Marcel Voia. Emerald Group Publishing"
+publication: "Revised and Resubmit. *Presented at 2021 Stata Conference*"
 publication_short: ""
 
 abstract: "The command netivreg implements the Generalized Three-Stage Least Squares (G3SLS) estimator developed in Estrada et al. (2020), On the Identification and Estimation of Endogenous Peer Effects in Multiplex Networks) and the Generalized Method of Moments (GMM) estimator in Chan et al. (2022), On the Estimation of Social Effects with Observational Network Data and Random Assignment) for the endogenous linear-in-means model. The two procedures utilize full observability of a two-layered multiplex network data structure using Stata's 16 new multi frames capabilities and Python integration. Applications of the command include simulated data and five years' worth of data on peer-reviewed articles published in top general interest journals in Economics."
