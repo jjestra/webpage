@@ -3,7 +3,7 @@
 
 title: "On the Estimation of Social Effects with Observational Network Data and Random Assignment"
 authors: [Chan, J.; Estrada, J.; Huynh, K.P.; Jacho-Chavez, D.T.; Lam, S.;Sanchez-Aragon, L.]
-date: 2020-01-14T20:42:26-05:00
+date: 2022-01-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2022-11-14T20:42:26-05:00
