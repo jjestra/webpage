@@ -38,7 +38,7 @@ item:
   organization: Laney Graduate School, Emory University
   organization_url: https://gs.emory.edu/index.html
   title: Outstanding Graduate Teaching Associate Award
-  url:
+  url: ""
 
 design:
   columns: '2' 
