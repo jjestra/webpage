@@ -1,7 +1,7 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the Estimation of Social Effects with Observational Network Data and Random Assignment"
+title: "Bayesian Inference of Network Formation Models with Payoff Externalities"
 authors: [Chan, J.; Estrada, J.; Huynh, K.P.; Jacho-Chavez, D.T.; Lam, S.;Sanchez-Aragon, L.]
 date: 2022-01-14T20:42:26-05:00
 
