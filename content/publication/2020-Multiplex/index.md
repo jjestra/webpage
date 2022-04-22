@@ -15,7 +15,7 @@ date: 2020-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""<br />
+publication: "<br />
 **Presentations:**<br />
 <br />
 Microeconometrics: 12th World Congress of the Econometric Society 2020, Bocconi University. 
