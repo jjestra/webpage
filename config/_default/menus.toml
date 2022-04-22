@@ -11,6 +11,11 @@
 [[main]]
   name = "Research"
   url = "#publications"
+  weight = 40
+  
+  [[main]]
+  name = "Awards"
+  url = "#accomplishments"
   weight = 50
 
 # Link to a PDF of your resume/CV from the menu.
