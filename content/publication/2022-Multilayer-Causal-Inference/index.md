@@ -16,7 +16,10 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "*Presented at"
-publication: "-European Winter Meetings of The Econometric Society 2021"
+
+- European Winter Meetings of The Econometric Society 2021
+
+- 16th Economics Graduate Students’ Conference Washington University in St.Louis."
 
 publication_short: ""
 
