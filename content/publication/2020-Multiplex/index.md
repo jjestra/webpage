@@ -15,7 +15,16 @@ date: 2020-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Presented at Microeconometrics: 12th World Congress of the Econometric Society 2020, Bocconi University, 2019 Survey Methodology and Data Science Conference, Ottawa, Canada, Advances in Econometrics: The econometrics of Network 2019, Sibiu, Romania, Fifth annual conference on Network Science and Economics 2019, Bloomington, Indiana*"
+publication: ""<br />
+**Presentations:**<br />
+<br />
+Microeconometrics: 12th World Congress of the Econometric Society 2020, Bocconi University. 
+<br />
+2019 Survey Methodology and Data Science Conference, Ottawa, Canada.
+<br />
+Advances in Econometrics: The econometrics of Network 2019, Sibiu, Romania.
+<br />
+Fifth annual conference on Network Science and Economics 2019, Bloomington, Indiana*"
 publication_short: ""
 
 abstract: "A novel method to estimate social effect coefficients in the popular so-called linear-in-means regression model in the Social Sciences is presented here that utilizes non-experimental multidimensional network data. The procedure can accommodate social interactions that correlate with the error in the model by making use of a different set of networks links among the same observations that are exogenous in the traditional sense. In particular the full observability of a two-layered \emph{multiplex} network data structure is assumed here to propose a new Generalized 3-Stage Least Squares (G3SLS) estimator that is consistent,  asymptotically normally distributed, and also easy to implement using widely-used existing statistical software because of its closed-form definition. The underlying assumptions are general enough to accommodate common problems with observational data such as measurement error, simultaneity, and unobserved heterogeneity. Monte Carlo exercises confirm the good small sample performance of the proposed G3SLS estimator in these scenarios. An empirical application finds a positive and significant peer effects in citations among research articles published in top general-interest journals in economics."
