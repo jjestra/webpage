@@ -29,7 +29,7 @@ item:
   description: ""
   organization: Emory University Department of Economics
   organization_url: https://economics.emory.edu/
-  title: **Economics Graduate Student Research Award of Excellence**
+  title: Economics Graduate Student Research Award of Excellence
   url: ""
 - certificate_url: https://gs.emory.edu/spotlight/deans-address-2022.html
   date_end: ""
