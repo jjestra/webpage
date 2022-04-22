@@ -38,7 +38,9 @@ design:
 ### Others
 
 **ECON-220: Probability & Statatistics for Economists** - Fall 2020, Spring 2022
+
 **ECON-320: Econometrics** - Fall 2021
+
 **ECON-485: Empirical Methods & Machine Learning** - Spring 2020
 
 
