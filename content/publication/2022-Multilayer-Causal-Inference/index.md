@@ -18,11 +18,8 @@ publication_types: ["3"]
 publication: "
 
 - **Presented at**
-
   - *European Winter Meetings of The Econometric Society 2021*
-
   - *16th Economics Graduate Students’ Conference Washington University in St.Louis*"
-
 
 publication_short: ""
 
