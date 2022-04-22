@@ -15,7 +15,7 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Presented at LACEA LAMES Annual-Meeting 2021, IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET, Sixth annual conference on Network Science and Economic. Coming up at North American Summer Meetings of The Econometric Society 2022, IAAE 2022 Annual Conference*"
+publication: ""
 publication_short: ""
 
 abstract: "This paper provides a novel approach to identifying and performing inference on the utility parameters of a network formation model with payoff externalities using observed network data. The existence of externalities induces an issue of multiple equilibria. Under the assumption that a predetermined probability distribution exists over the set of all possible equilibrium networks, we show that local point identification of the parameters of interest is possible. We propose a Bayesian estimation method to conduct statistical inference of the structural payoff coefficients. We address the issue of high-dimensional numerical integration by proposing a  composite likelihood function based on the marginal distribution of all the possible subgraphs forming the observed network. We show that the use of a composite likelihood induces misspecification. We characterize the Kullback-Leibler distance that measures the misspecification error. We present an empirical application to model the network formation process of individuals creating social connections in villages in Karnataka, India. We find strong evidence of homophily effects."
