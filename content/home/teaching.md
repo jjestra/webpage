@@ -11,4 +11,8 @@ design:
   columns: '2'
 ---
 
-Add teaching
+# Courses Taught:
+
+## Main Instructor
+
+**ECON 101: Principles Of Microeconomics** -Spring 2021 
