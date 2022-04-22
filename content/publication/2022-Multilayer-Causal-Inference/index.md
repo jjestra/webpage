@@ -16,8 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Presented"
-
-"-European Winter Meetings of The Econometric Society 2021"
+publication: "Presented 2"
 
 publication_short: ""
 
