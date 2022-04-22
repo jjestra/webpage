@@ -16,7 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "Revised and Resubmit. 
-"<br />
+<br />
 **Presentations:**<br />
 <br />
 *2021 Stata Conference*"
