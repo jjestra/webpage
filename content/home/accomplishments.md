@@ -31,14 +31,14 @@ item:
   organization_url: https://economics.emory.edu/
   title: Economics Graduate Student Research Award of Excellence
   url: ""
-- certificate_url: https://gs.emory.edu/spotlight/deans-address-2022.html
+- certificate_url: 
   date_end: ""
   date_start: "2021-04-14"
   description:
   organization: Laney Graduate School, Emory University
   organization_url: https://gs.emory.edu/index.html
   title: Outstanding Graduate Teaching Associate Award
-  url: ""
+  url: https://gs.emory.edu/spotlight/deans-address-2022.html
 
 design:
   columns: '2' 
