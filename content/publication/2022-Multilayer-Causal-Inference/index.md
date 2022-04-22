@@ -2,6 +2,7 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Causal Inference in Multilayer Social Networks"
+subtitle: "something"
 authors: [Estrada, J.]
 date: 2022-01-14T20:42:26-05:00
 
