@@ -2,7 +2,6 @@
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
 title: "Causal Inference in Multilayer Social Networks"
-subtitle: "something"
 authors: [Estrada, J.]
 date: 2022-01-14T20:42:26-05:00
 
@@ -22,7 +21,7 @@ publication_short: ""
 abstract: "This paper proposes a new method to identify and estimate the parameters of an extension of a linear model of peer effects where individuals form different types of social and professional connections that can affect their outcomes. I use a multilayer network data structure to characterize my data generating process and accommodate multiple social networks. My methodology allows all layers in the multilayer network to be endogenous, which is fundamental when dealing with observational data. I show that identification of heterogeneous network effects is possible under the assumption that the dependence between individuals in the population is characterized by a psi-dependent stochastic process, which guarantees that their dependence vanishes in the network space. I offer a novel multilayer measure of distance that, combined with the psi-dependence assumption, provides a source of exogenous variation that I use to form identifying moment conditions. I propose a Generalized Method of Moments estimator that is consistent and asymptotically normal at the standard rate. I characterize the asymptotic variance-covariance matrix that considers the intrinsic network dependence among individuals. I show that too dense or too sparse networks provide weak identifying information that translates into larger standard errors. A Monte Carlo experiment confirms the desirable finite properties of the proposed estimator. An empirical application finds positive and significant peer effects in citations from a multilayer network of professional connections among scholars publishing in top general interest journals in economics."
 
 # Summary. An optional shortened abstract.
-summary: ""
+summary: "Something"
 
 tags: []
 categories: []
