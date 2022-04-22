@@ -25,7 +25,7 @@ publication: "**Presentations:**<br />
 
 <br />
 
-*Coming up at IAAE 2022 Annual Conference.*"
+*Coming up at IAAE 2022 Annual Conference*"
 
 publication_short: ""
 
