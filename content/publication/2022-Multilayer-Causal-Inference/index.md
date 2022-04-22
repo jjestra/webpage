@@ -15,14 +15,17 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "*Presented at* 
+publication: "
+
+*Presented at* 
 
 - European Winter Meetings of The Econometric Society 2021
+
 - 16th  Economics  Graduate  Students’  Conference  Washington  University  in  St.Louis. 
 
 *Coming up at*
 
--IAAE 2022 Annual Conference*"
+-IAAE 2022 Annual Conference"
 
 publication_short: ""
 
