@@ -21,7 +21,8 @@ publication: "**Presentations:**
 
 - *16th Economics Graduate Students’ Conference Washington University in St.Louis.*
 
-- *Coming up at -IAAE 2022 Annual Conference.*"
+- *Coming up at -IAAE 2022 Annual Conference.*
+"
 
 publication_short: ""
 
