@@ -20,9 +20,9 @@ publication: "<br />
 <br />
 *LACEA LAMES Annual-Meeting 2021.*<br />
 <br />
-*IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge.*<br />
+*IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET.*<br />
 <br />
-*INET, Sixth annual conference on Network Science and Economic.*<br />
+*Sixth annual conference on Network Science and Economic 2021.*<br />
 <br />
 *Coming up at the North American Summer Meetings of The Econometric Society 2022, IAAE 2022 Annual Conference*"
 publication_short: ""
