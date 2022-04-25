@@ -21,6 +21,8 @@ design:
 
 **QTM-100: Introduction to Statistical Inference** - Fall 2020
 
+**QTM-210: Probability and Statistics** - Spring 2020
+
 ## Teaching Assistant
 
 ### Including Weekly Sessions 
