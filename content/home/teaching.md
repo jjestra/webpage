@@ -29,6 +29,8 @@ design:
 
 **ECON-521: Advanced Econometrics (PhD Core)** - Spring 2019, 2020, 2022
 
+[grid_modules] ( {{< ref "media/cv.pdf" >}})
+
 **ECON-520: Probability Theory & Statistical Inference (PhD Core)** - Fall 2021
 
 ### Others
