@@ -31,7 +31,9 @@ design:
 
 **ECON-520: Probability Theory & Statistical Inference (PhD Core)** - Fall 2021
 
-[Teaching]({{< ref "media/cv.pdf" >}} "Teaching Evaluations")
+[[main]]
+   name = "Teaching Evaluations"
+   url = "media/cv.pdf"
 
 ### Others
 
