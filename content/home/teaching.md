@@ -29,7 +29,7 @@ design:
 
 **ECON-521: Advanced Econometrics (PhD Core)** - Spring 2019, 2020, 2022
 
-[Teaching Evaluations]([https://www.emory.edu/home/index.html](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjjestra%2Fwebpage%2Fmaster%2Fstatic%2Fmedia%2FEcon_521_TA_Results.xlsx&wdOrigin=BROWSELINK)
+[Teaching Evaluations](https://view.officeapps.live.com/op/view.aspx?src=https%3A%2F%2Fraw.githubusercontent.com%2Fjjestra%2Fwebpage%2Fmaster%2Fstatic%2Fmedia%2FEcon_521_TA_Results.xlsx&wdOrigin=BROWSELINK)
 
 **ECON-520: Probability Theory & Statistical Inference (PhD Core)** - Fall 2021
 
