@@ -15,11 +15,11 @@ design:
 
 ## Main Instructor
 
-**ECON-101: Principles Of Microeconomics** - Spring 2021
+**ECON-101: Principles Of Microeconomics** - Spring 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
 
 ## Lab Instructor
 
-**QTM-100: Introduction to Statistical Inference** - Fall 2020
+**QTM-100: Introduction to Statistical Inference** - Fall 2020 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/QTM-100-6.pdf)
 
 **QTM-210: Probability and Statistics** - Spring 2020
 
