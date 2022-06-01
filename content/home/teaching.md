@@ -31,10 +31,6 @@ design:
 
 **ECON-520: Probability Theory & Statistical Inference (PhD Core)** - Fall 2021
 
-[[main]]
-   name = "Teaching Evaluations"
-   url = "media/cv.pdf"
-
 ### Others
 
 **ECON-220: Probability & Statatistics for Economists** - Fall 2020, Spring 2022
