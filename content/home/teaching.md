@@ -28,6 +28,7 @@ design:
 ### Including Weekly Sessions 
 
 **ECON-521: Advanced Econometrics (PhD Core)** - Spring 2019, 2020, 2022
+url = "Econ_521_TA_Results.xlsx"
 
 **ECON-520: Probability Theory & Statistical Inference (PhD Core)** - Fall 2021
 
