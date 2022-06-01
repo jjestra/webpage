@@ -15,7 +15,7 @@ design:
 
 ## Main Instructor
 
-**ECON-101: Principles Of Microeconomics** - Spring 2021
+**ECON-101: Principles Of Microeconomics** - Spring 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://github.com/jjestra/webpage/blob/master/static/media/ECON-101.pdf)
 
 ## Lab Instructor
 
