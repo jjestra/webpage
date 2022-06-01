@@ -87,4 +87,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral fellow at [Emory University](https://www.emory.edu/home/index.html)'s Quantitative Theory & Methods (QTM) department. I hold a Ph.D. and M.Sc. in Economics from [Emory University](https://www.emory.edu/home/index.html). I received my B.Sc. and M.Sc. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. My primary research interests are econometrics of networks and applied microeconomics.
+I am a postdoctoral fellow at [Emory University](https://www.emory.edu/home/index.html)'s Quantitative Theory & Methods (QTM) department. I hold a Ph.D. and M.Sc. in Economics from [Emory University](https://www.emory.edu/home/index.html). In addition, I received my B.Sc. and M.Sc. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. My primary research interests are econometrics of networks and applied microeconomics.
