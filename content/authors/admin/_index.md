@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Economics Ph.D. Candidate
+role: Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
