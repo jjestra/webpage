@@ -31,7 +31,7 @@ education:
   courses:
   - course: Ph.D. in Economics
     institution: Emory University
-    year: 2022 (Expected)
+    year: 2022 
   - course: M.Sc. in Economics
     institution: Emory University
     year: 2020
