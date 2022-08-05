@@ -44,7 +44,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: 
+url_pdf: https://github.com/jjestra/webpage/raw/master/content/publication/2022-Random-Networks/academic_performance_peer_effects.pdf
 url_code:
 url_dataset:
 url_poster:
