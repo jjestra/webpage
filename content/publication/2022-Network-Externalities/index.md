@@ -15,8 +15,7 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: ""
-publication_short: ""
+publication: "" 
 <br />
 **Presentations:**<br />
 <br />
