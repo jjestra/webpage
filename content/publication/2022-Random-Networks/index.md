@@ -24,7 +24,7 @@ publication: "<br />
 <br />
 *Sixth annual conference on Network Science and Economic 2021.*<br />
 <br />
-*North American Summer Meetings of The Econometric Society 2022*<br />
+*North American Summer Meetings of The Econometric Society 2022.*<br />
 <br />
 *IAAE 2022 Annual Conference*"
 publication_short: ""
