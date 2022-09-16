@@ -18,7 +18,6 @@ publication_types: ["3"]
 publication: "
 <br />
 **Presentations:**<br />
-<br />
 *2021 University of York Workshop*"
 publication_short: ""
 
