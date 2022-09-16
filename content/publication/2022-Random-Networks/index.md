@@ -16,17 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "<br />
-**Presentations:**<br />
-<br />
-*LACEA LAMES Annual-Meeting 2021.*<br />
-<br />
-*IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET.*<br />
-<br />
-*Sixth annual conference on Network Science and Economic 2021.*<br />
-<br />
-*North American Summer Meetings of The Econometric Society 2022.*<br />
-<br />
-*IAAE 2022 Annual Conference*"
+**Presentations:** *LACEA LAMES Annual-Meeting 2021.*, *IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET.*, *Sixth annual conference on Network Science and Economic 2021.*, *North American Summer Meetings of The Econometric Society 2022.*, *IAAE 2022 Annual Conference*"
 publication_short: ""
 
 abstract: "This paper proposes a new method to identify and estimate the parameters of the popular Linear-in-Means model of social effects in situations where initial randomization of peers induces the observed network of interest. We argue that the initially randomized peers do not generate social effects. However,  after the randomization, agents can endogenously form relevant connections that can create peer influences. In this context, we introduce a moment condition that aggregates local heterogeneous identifying information for all the individuals in the population. We show that it is possible to identify the parameters of interest by using the exogenous variation in the randomized groups. We prove the consistency and root-n asymptotic normality of the resulting estimator of peer, contextual, and direct effects in the presence of psi-dependence in the network space. The asymptotically efficient variance-covariance matrix is characterized and an estimator is proposed. A Monte Carlo experiment showcases the good small-sample properties of the estimator, while an application using networks of study partners and seatmates among high school students in Hong Kong is included. We find strong positive spillover effects of math test scores among study partners."
