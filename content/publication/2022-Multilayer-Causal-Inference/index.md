@@ -16,13 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "<br />
-**Presentations:**<br />
-<br />
-*European Winter Meetings of The Econometric Society 2021.*<br />
-<br />
-*16th Economics Graduate Students’ Conference Washington University in St.Louis.*<br />
-<br />
-*IAAE 2022 Annual Conference*"
+**Presentations:** *European Winter Meetings of The Econometric Society 2021.*, *16th Economics Graduate Students’ Conference Washington University in St.Louis.*, *IAAE 2022 Annual Conference*"
 
 publication_short: ""
 
