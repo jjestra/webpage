@@ -25,6 +25,7 @@ interests:
 - Econometrics of Networks
 - Causal Infernence
 - Applied Microeconomics
+- American Politics
 
 # Education to show in About widget
 education:
