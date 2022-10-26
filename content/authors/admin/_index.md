@@ -87,4 +87,4 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral fellow at [Emory University](https://www.emory.edu/home/index.html)'s Quantitative Theory & Methods (QTM) department. I hold a Ph.D. and M.Sc. in Economics from [Emory University](https://www.emory.edu/home/index.html). In addition, I received my B.Sc. and M.Sc. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. My primary research interests are econometrics of networks and applied microeconomics.
+I am a postdoctoral fellow at [Emory University](https://www.emory.edu/home/index.html)'s Quantitative Theory & Methods (QTM) department working with Professor [Clifford Carrubba](https://quantitative.emory.edu/people/bios/carrubba-clifford.html). Our current research projects include studies of legislative behavior and roll-call vote analysis. I hold a Ph.D. and M.Sc. in Economics from [Emory University](https://www.emory.edu/home/index.html), and I received my B.Sc. and M.Sc. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. My primary research interests focus on the econometric analysis of network data, applied microeconomics, and American politics.
