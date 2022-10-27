@@ -23,7 +23,7 @@ organizations:
 # Interests to show in About widget
 interests:
 - Econometrics of Networks
-- Causal Infernence
+- Causal Inference
 - Applied Microeconomics
 - American Politics
 
