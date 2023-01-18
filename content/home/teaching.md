@@ -15,6 +15,8 @@ design:
 
 ## Main Instructor
 
+**QTM-151: Intro.to Stat.Computing II** - Fall 2022 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/QTM-151-TE_JuanEstrada.pdf)
+
 **ECON-101: Principles Of Microeconomics** - Spring 2021 [Teaching Evaluations](https://docs.google.com/viewer?url=https://raw.githubusercontent.com/jjestra/webpage/master/static/media/ECON-101.pdf)
 
 ## Lab Instructor
