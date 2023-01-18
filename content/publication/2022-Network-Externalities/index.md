@@ -17,7 +17,7 @@ publication_types: ["3"]
 # Publication name and optional abbreviated publication name.
 publication: "
 <br />
-**Presentations:** *2021 University of York Workshop*"
+**Presentations:** *2021 University of York Workshop.*, *Midwest Econometrics Group (MEG) 2022 Conference.*"
 publication_short: ""
 
 abstract: "This paper provides a novel approach to identifying and performing inference on the utility parameters of a network formation model with payoff externalities using observed network data. The existence of externalities induces an issue of multiple equilibria. Under the assumption that a predetermined probability distribution exists over the set of all possible equilibrium networks, we show that local point identification of the parameters of interest is possible. We propose a Bayesian estimation method to conduct statistical inference of the structural payoff coefficients. We address the issue of high-dimensional numerical integration by proposing a  composite likelihood function based on the marginal distribution of all the possible subgraphs forming the observed network. We show that the use of a composite likelihood induces misspecification. We characterize the Kullback-Leibler distance that measures the misspecification error. We present an empirical application to model the network formation process of individuals creating social connections in villages in Karnataka, India. We find strong evidence of homophily effects."
