@@ -15,7 +15,8 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<br />
+publication: "Under Revision
+<br />
 **Presentations:** *LACEA LAMES Annual-Meeting 2021.*, *IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET.*, *Sixth annual conference on Network Science and Economic 2021.*, *North American Summer Meetings of The Econometric Society 2022.*, *IAAE 2022 Annual Conference*"
 publication_short: ""
 
