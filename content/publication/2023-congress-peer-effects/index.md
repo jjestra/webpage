@@ -1,9 +1,9 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the Estimation of Social Effects with Observational Network Data and Random Assignment"
-authors: [Chan, J.; Estrada, J.; Huynh, K.P.; Jacho-Chavez, D.T.; Lam, S.;Sanchez-Aragon, L.]
-date: 2022-01-14T20:42:26-05:00
+title: "Estimating Network Effects and Their Impact on Congressional Polarization"
+authors: [Estrada, J.; Carrubba, C.]
+date: 2023-07-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2022-11-14T20:42:26-05:00
@@ -15,12 +15,11 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Revision
-<br />
-**Presentations:** *LACEA LAMES Annual-Meeting 2021.*, *IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET.*, *Sixth annual conference on Network Science and Economic 2021.*, *North American Summer Meetings of The Econometric Society 2022.*, *IAAE 2022 Annual Conference*"
+publication: "<br />
+**Presentations:** *40th annual meeting of the Society for Political Methodology 2023.*
 publication_short: ""
 
-abstract: "This paper proposes a new method to identify and estimate the parameters of the popular Linear-in-Means model of social effects in situations where initial randomization of peers induces the observed network of interest. We argue that the initially randomized peers do not generate social effects. However,  after the randomization, agents can endogenously form relevant connections that can create peer influences. In this context, we introduce a moment condition that aggregates local heterogeneous identifying information for all the individuals in the population. We show that it is possible to identify the parameters of interest by using the exogenous variation in the randomized groups. We prove the consistency and root-n asymptotic normality of the resulting estimator of peer, contextual, and direct effects in the presence of psi-dependence in the network space. The asymptotically efficient variance-covariance matrix is characterized and an estimator is proposed. A Monte Carlo experiment showcases the good small-sample properties of the estimator, while an application using networks of study partners and seatmates among high school students in Hong Kong is included. We find strong positive spillover effects of math test scores among study partners."
+abstract: "This paper introduces a novel approach to identifying and estimating parameters in a model where legislators choose their expressed political ideology based on roll-call votes. We consider various professional connections, including cosponsorship, committee membership, and same-state links, to capture the influence of peers on legislators' preferences in the context of the U.S. Congress. We propose an original strategy to uniquely identify heterogeneous network effects by characterizing a subset of individuals' attributes in the population with a stochastic process where dependence vanishes in the multilayer network space. In particular, we assume that the average interest groups' contributions to state politicians affect legislators' revealed policy positions but are uncorrelated with the unobserved characteristics of other legislators far apart in the network space. We propose a Generalized Method of Moments estimator that incorporates the identifying assumptions and demonstrate its consistency and asymptotic normality. By accounting for the inherent network dependence, our estimator allows for correct inference. Through empirical analysis, we validate our main identifying assumptions and observe strong peer effects within the cosponsorship network and a direct influence of contributors' ideologies on legislators' revealed policy positions. Substantively, we argue that the polarizing influence of money in politics and the echo chamber dynamics created by partisan connections and social multipliers offer a potentially consistent explanation for the observed increase in polarization."
 
 # Summary. An optional shortened abstract.
 summary: ""
@@ -37,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/jjestra/webpage/raw/master/content/publication/2022-Random-Networks/academic_performance_peer_effects.pdf
+url_pdf:
 url_code:
 url_dataset:
 url_poster:
