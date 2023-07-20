@@ -37,7 +37,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/jjestra/webpage/raw/master/content/publication/2022-Network-Externalities/Network_Externalities_article.pdf
+url_pdf: 
 url_code:
 url_dataset:
 url_poster:
