@@ -15,7 +15,8 @@ date: 2023-07-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "<br />
+publication: "
+<br />
 **Presentations:** *40th annual meeting of the Society for Political Methodology 2023.*
 publication_short: ""
 
