@@ -16,7 +16,7 @@ publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
 publication: "<br />
-**Presentations:** *European Winter Meetings of The Econometric Society 2021 and 2022.*, *16th Economics Graduate Students’ Conference Washington University in St.Louis.*, *IAAE 2022 Annual Conference.*, *Midwest Econometrics Group (MEG) 2022 Conference*"
+**Presentations:** *Eighth Annual Conference on Network Science and Economics 2023.*, *European Winter Meetings of The Econometric Society 2021 and 2022.*, *16th Economics Graduate Students’ Conference Washington University in St.Louis.*, *IAAE 2022 Annual Conference.*, *Midwest Econometrics Group (MEG) 2022 Conference*"
 
 publication_short: ""
 
