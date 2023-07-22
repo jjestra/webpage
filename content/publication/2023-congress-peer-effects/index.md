@@ -3,7 +3,7 @@
 
 title: "Estimating Network Effects and Their Impact on Congressional Polarization"
 authors: [Estrada, J.; Carrubba, C.]
-date: 2022-01-14T20:42:26-05:00
+date: 2023-01-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
 #publishDate: 2023-11-14T20:42:26-05:00
