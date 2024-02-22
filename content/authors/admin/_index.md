@@ -88,8 +88,8 @@ email: ""
 highlight_name: false
 ---
 
-I am an Associate at Analysis Group, where I conduct economic and econometric analyses across a wide range of cases, including intellectual property, antitrust & competition, finance, and policy evaluation.
+I am an Associate at Analysis Group, where I conduct economic and econometric analyses across a wide range of cases, including intellectual property, finance, and policy evaluation.
 
-I have five years of experience in developing academic research projects that combine economic modeling, econometric methods, and innovative datasets. My recent projects focus on analyzing the legislative and voting behavior of U.S. Congress members. This includes the development of new approaches to causally identify social interaction effects in congressional behavior using observational political network data.
+I have five years of experience in developing academic research projects that combine economic modeling, econometric methods, and innovative datasets. My recent projects focus on analyzing the legislative and voting behavior of U.S. Congress members. The research develops new approaches to causally identify social interaction effects in congressional behavior using observational political network data.
 
-In econometrics, my research centers on creating novel methods to understand the causal impact of various social or professional connections on people’s outcomes using non-experimental data. For instance, I've explored the effect of having friends or study partners with better grades on secondary school students, the impact of more productive colleagues or coauthors on researchers’ productivity, and the consequences of cosponsors or members of the same committee voting in favor or against more extreme topics for U.S. members of Congress.
+In econometrics, my research centers on creating novel methods to understand the causal impact of social or professional connections on people’s outcomes using non-experimental data. For instance, I've explored the effect of having friends or study partners with better grades on secondary school students, the impact of more productive colleagues or coauthors on researchers’ productivity, and the consequences of cosponsors or members of the same committee voting in favor or against more extreme topics for U.S. members of Congress.
