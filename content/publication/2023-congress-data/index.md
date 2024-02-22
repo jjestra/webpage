@@ -15,7 +15,7 @@ date: 2023-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "
+publication: "**Revised and Resubmit.**
 <br />
 **Presentations:** *2023 American Political Science Association Annual Meeting & Exhibition, 81st Annual Midwest Political Science Association Conference*"
 publication_short: ""
