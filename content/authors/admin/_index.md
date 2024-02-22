@@ -15,7 +15,7 @@ role: Associate
 # Organizations/Affiliations to show in About widget
 organizations:
 - name: Analysis Group
-  url: [http://economics.emory.edu/home/index.html/](https://www.analysisgroup.com/)
+  url: https://www.analysisgroup.com/
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
