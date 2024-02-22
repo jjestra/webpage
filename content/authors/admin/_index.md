@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Associate
+role: Associate | Ph.D. in Economics
 
 # Organizations/Affiliations to show in About widget
 organizations:
