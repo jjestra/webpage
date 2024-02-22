@@ -15,7 +15,7 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Revised and Resubmit. 
+publication: "**Revised and Resubmit**. 
 <br />
 **Presentations:** *2021 Stata Conference*"
 publication_short: ""
