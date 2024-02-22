@@ -10,12 +10,12 @@ authors:
 superuser: true
 
 # Role/position/tagline
-role: Ph.D. in Economics
+role: Associate
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Emory University
-  url: http://economics.emory.edu/home/index.html/
+- name: Analysis Group
+  url: [http://economics.emory.edu/home/index.html/](https://www.analysisgroup.com/)
 
 # Short bio (displayed in user profile at end of posts)
 # bio: My research interests include distributed robotics, mobile computing and programmable matter.
@@ -88,6 +88,8 @@ email: ""
 highlight_name: false
 ---
 
-I am a postdoctoral fellow at [Emory University](https://www.emory.edu/home/index.html)'s Quantitative Theory & Methods (QTM) department working with Professor [Clifford Carrubba](https://quantitative.emory.edu/people/bios/carrubba-clifford.html). Our ongoing research projects encompass the examination of legislative behavior and roll-call vote analysis, where we integrate game theoretical and empirical methods with innovative datasets. Additionally, we are working on devising novel approaches to causally identify social interaction effects through the analysis of observational political network data.
+I am an Associate at Analysis Group, where I conduct economic and econometric analyses across a wide range of cases, including intellectual property, antitrust & competition, finance, and policy evaluation.
 
-I hold a Ph.D. and M.Sc. in Economics from [Emory University](https://www.emory.edu/home/index.html), and I received my B.Sc. and M.Sc. in economics at [Universidad EAFIT](https://www.eafit.edu.co/) in Colombia. My primary research interests focus on the econometric analysis of network data, applied microeconomics, and American politics.
+I have five years of experience in developing academic research projects that combine economic modeling, econometric methods, and innovative datasets. My recent projects focus on analyzing the legislative and voting behavior of U.S. Congress members. This includes the development of new approaches to causally identify social interaction effects in congressional behavior using observational political network data.
+
+In econometrics, my research centers on creating novel methods to understand the causal impact of various social or professional connections on people’s outcomes using non-experimental data. For instance, I've explored the effect of having friends or study partners with better grades on secondary school students, the impact of more productive colleagues or coauthors on researchers’ productivity, and the consequences of cosponsors or members of the same committee voting in favor or against more extreme topics for U.S. members of Congress.
