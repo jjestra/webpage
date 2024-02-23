@@ -1,12 +1,12 @@
 ---
 # Documentation: https://sourcethemes.com/academic/docs/managing-content/
 
-title: "On the Estimation of Social Effects with Observational Network Data and Random Assignment"
+title: "Estimating Social Effects with Randomized and Observational Network Data"
 authors: [Chan, J.; Estrada, J.; Huynh, K.P.; Jacho-Chavez, D.T.; Lam, S.;Sanchez-Aragon, L.]
-date: 2022-01-14T20:42:26-05:00
+date: 2024-01-14T20:42:26-05:00
 
 # Schedule page publish date (NOT publication's date).
-#publishDate: 2022-11-14T20:42:26-05:00
+#publishDate: 2024-11-14T20:42:26-05:00
 
 # Publication type.
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
@@ -20,7 +20,7 @@ publication: "**Revised and Resubmit.**
 **Presentations:** *LACEA LAMES Annual-Meeting 2021.*, *IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET.*, *Sixth annual conference on Network Science and Economic 2021.*, *North American Summer Meetings of The Econometric Society 2022.*, *IAAE 2022 Annual Conference*"
 publication_short: ""
 
-abstract: "This paper proposes a new method to identify and estimate the parameters of the popular Linear-in-Means model of social effects in situations where initial randomization of peers induces the observed network of interest. We argue that the initially randomized peers do not generate social effects. However,  after the randomization, agents can endogenously form relevant connections that can create peer influences. In this context, we introduce a moment condition that aggregates local heterogeneous identifying information for all the individuals in the population. We show that it is possible to identify the parameters of interest by using the exogenous variation in the randomized groups. We prove the consistency and root-n asymptotic normality of the resulting estimator of peer, contextual, and direct effects in the presence of psi-dependence in the network space. The asymptotically efficient variance-covariance matrix is characterized and an estimator is proposed. A Monte Carlo experiment showcases the good small-sample properties of the estimator, while an application using networks of study partners and seatmates among high school students in Hong Kong is included. We find strong positive spillover effects of math test scores among study partners."
+abstract: "This paper proposes a novel method to identify and estimate the parameters of interest in the popular so-called linear-in-means regression model in situations where initial randomization of peers induces the observed network of interest. We argue that initially randomized peers do not generate social effects. However, after randomization, agents can endogenously form relevant connections that can create peer influences.  We introduce a moment condition that aggregates local heterogeneous identifying information for all agents in the population. Assuming $\psi$-dependence in the endogenous network space, a Generalized Method of Moments (GMM) estimator is then proposed that is shown to be consistent, asymptotically normally distributed, and also easy to implement using widely used existing statistical software because of its closed form definition. Monte Carlo exercises confirm the good small-sample performance of the proposed GMM estimator, and an empirical application using data from high-school students in Hong Kong finds strong positive spillover effects of math test scores among study partners in our sample, assuming that their observed seatmates were exogenously assigned by their teachers."
 
 # Summary. An optional shortened abstract.
 summary: ""
