@@ -12,14 +12,12 @@ date: 2024-01-14T20:42:26-05:00
 # Legend: 0 = Uncategorized; 1 = Conference paper; 2 = Journal article;
 # 3 = Preprint / Working Paper; 4 = Report; 5 = Book; 6 = Book section;
 # 7 = Thesis; 8 = Patent
-publication_types: ["3"]
+publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Revised and Resubmit.**
-<br />
-**Presentations:** *LACEA LAMES Annual-Meeting 2021.*, *IAAE 2021 Annual Conference, Young Academics Networks Conference at University of Cambridge, INET.*, *Sixth annual conference on Network Science and Economic 2021.*, *North American Summer Meetings of The Econometric Society 2022.*, *IAAE 2022 Annual Conference*"
-
+publication: "**Advances in Econometrics**, (42), pp. 235-262, edited by Áureo de Paula, Elie Tamer, and Marcel Voia. Emerald Group Publishing"
 publication_short: ""
+
 
 abstract: "This paper proposes a novel method to identify and estimate the parameters of interest in the popular so-called linear-in-means regression model in situations where initial randomization of peers induces the observed network of interest. We argue that initially randomized peers do not generate social effects. However, after randomization, agents can endogenously form relevant connections that can create peer influences.  We introduce a moment condition that aggregates local heterogeneous identifying information for all agents in the population. Assuming psi-dependence in the endogenous network space, a Generalized Method of Moments (GMM) estimator is then proposed that is shown to be consistent, asymptotically normally distributed, and also easy to implement using widely used existing statistical software because of its closed form definition. Monte Carlo exercises confirm the good small-sample performance of the proposed GMM estimator, and an empirical application using data from high-school students in Hong Kong finds strong positive spillover effects of math test scores among study partners in our sample, assuming that their observed seatmates were exogenously assigned by their teachers."
 
@@ -38,7 +36,7 @@ featured: false
 #   icon_pack: fab
 #   icon: twitter
 
-url_pdf: https://github.com/jjestra/webpage/raw/master/content/publication/2022-Random-Networks/academic_performance_peer_effects.pdf
+url_pdf: https://www.degruyter.com/document/doi/10.1515/jem-2023-0043/html
 url_code:
 url_dataset:
 url_poster:
