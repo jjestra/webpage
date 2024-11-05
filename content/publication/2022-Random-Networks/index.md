@@ -15,7 +15,7 @@ date: 2024-01-14T20:42:26-05:00
 publication_types: ["2"]
 
 # Publication name and optional abbreviated publication name.
-publication: "**Advances in Econometrics**, (42), pp. 235-262, edited by Áureo de Paula, Elie Tamer, and Marcel Voia. Emerald Group Publishing"
+publication: "**Journal of Econometric Methods**, vol. 13, no. 2, 2024, pp. 205-224"
 publication_short: ""
 
 
