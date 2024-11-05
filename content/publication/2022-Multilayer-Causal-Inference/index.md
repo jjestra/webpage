@@ -15,7 +15,7 @@ date: 2022-01-14T20:42:26-05:00
 publication_types: ["3"]
 
 # Publication name and optional abbreviated publication name.
-publication: "Under Revision
+publication: "revise and resubmit
 <br />
 **Presentations:** *Eighth Annual Conference on Network Science and Economics 2023.*, *European Winter Meetings of The Econometric Society 2021 and 2022.*, *16th Economics Graduate Students’ Conference Washington University in St.Louis.*, *IAAE 2022 Annual Conference.*, *Midwest Econometrics Group (MEG) 2022 Conference*"
 
